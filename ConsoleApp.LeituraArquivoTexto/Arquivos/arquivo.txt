@@ -1,0 +1,7 @@
+Thiago;Rua Antonio Camacho 193;9999-8888
+Joyce;Rua Alpha 185;8888-7777
+Cleber;Rua Betha 4195;7777-6666
+Vinicius;Rua Omega 7195;6666-4444
+Tiago;Rua Zeta 1955;5555-3333
+Edson;Rua A 1095;4444-3333
+Jose;Rua B 1985;3333-4444
